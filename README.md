@@ -1,16 +1,13 @@
-## Hi there 👋
+# About me 👋
 
-<!--
-**shinjinib0se/shinjinib0se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Shinjini Bose, and I am an undergraduate Computer Science and Data Science student at the University of Virginia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here is some information about me:
+
+- 🌱 I’m currently learning Computer Science at the University of Virginia
+- 💬 Ask me about oil painting and music
+- 📫 How to reach me: shinjinibose@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I enjoy arranging music in my free time!
+
